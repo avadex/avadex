@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 uniswap v3 fork 
-for testing and demonstration 
+for testing and demonstration on the 
 avalanche network
 
 <!---
