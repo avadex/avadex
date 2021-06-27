@@ -1,4 +1,6 @@
 # Deployment addresses
+orginal UNISWAP *V3 Deployments are on ETHEREUM 
+
 
 The latest version of `@uniswap/v3-core`, `@uniswap/v3-periphery` are deployed to Ethereum mainnet and all testnets
 at the same addresses.
