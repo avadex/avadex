@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @avadex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 uniswap v3 fork 
 for testing and demonstration on the 
 avalanche network
+
+dont use in production 
+
+contracts on avalanche are NOT AUDITED 
 
 <!---
 avadex/avadex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
