@@ -1,22 +1,18 @@
 
 
 uniswap v3 fork 
-for testing and demonstration on the 
+**for testing and demonstration on the 
 avalanche network
 
-dont use in production 
+**dont use in production 
 
-contracts  are NOT AUDITED 
+**contracts on the avalanche network  are NOT AUDITED 
+
 
 Deployment addresses
 orginal UNISWAP *V3 Deployments are on ETHEREUM
 
-The latest version of @uniswap/v3-core, @uniswap/v3-periphery are deployed to Ethereum mainnet and all testnets at the same addresses.
-
 The source code is verified with Etherscan on all networks, for all contracts except UniswapV3Pool. We are working on getting the UniswapV3Pool contract verified with Etherscan.
-
-These addresses are final and were deployed from these npm package versions:
-
 @uniswap/v3-core: 1.0.0
 @uniswap/v3-periphery: 1.0.0
 | Contract | Address | Source Code | | ---------------------------------- | -------------------------------------------- | fuji wavax 0xd00ae08403B9bbb9124bB305C09058E32C39A48c | cchain wavax 0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7 https://cchain.explorer.avax.network/address/0xE06B9a3C0A4314E00B33d9090a190ddC00a4DD01/contracts | UniswapV3Factory | 0x1F98431c8aD98523631AE4a59f267346ea31F984 | https://github.com/Uniswap/uniswap-v3-core/blob/v1.0.0/contracts/UniswapV3Factory.sol | fuji 0xF0e8A2197Bf142f509f0c78B88E62C7036c0AB80
