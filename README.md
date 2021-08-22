@@ -37,6 +37,8 @@ NEW: HaydenswapInterfacemulticall  Cchain : 0xeD822906FA020614840D6676401283098f
 | Fuji 0x44245D5301F5B966138BAeE9Ff670032Ce9fBAbf not flat 200 runs
 | Cchain 0xcDA512571175b06553d437CeB28816388983089a not flat no optimization 200 https://cchain.explorer.avax.network/address/0xcDA512571175b06553d437CeB28816388983089a/contracts
 
+new proxyadmin
+
 | TickLens | 0xbfd8137f7d1516D3ea5cA83523914859ec47F573 | https://github.com/Uniswap/uniswap-v3-periphery/blob/v1.0.0/contracts/lens/TickLens.sol 
 | Fuji 0x091B37F669E5D0AFeEa9B5cB9E2F06dEed1bF9c9 
 | Cchain 0x813CB4bC45f9BD01f6f6ea8a361daD1860085425 flat 1000000 run https://cchain.explorer.avax.network/address/0x813CB4bC45f9BD01f6f6ea8a361daD1860085425/contracts
