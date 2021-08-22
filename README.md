@@ -30,7 +30,7 @@ poolhash Cchain: 0x68b58c0c7cb7eee735ff41e28d34d055e34ebf55c6170f58890d725e87826
 NEW: UniswapInterfaceMulticall.sol | 0x1F98415757620B543A52E61c46B32eB19261F984  https://etherscan.io/address/0x1F98415757620B543A52E61c46B32eB19261F984#code
 | fuji 0x7a94E80Aa49449272f11cbBd2F3883c2e13d0E0F 
 | Cchain 0x143430fD8449952f0f0E030dc78e84962ED40107 https://cchain.explorer.avax.network/address/0x143430fD8449952f0f0E030dc78e84962ED40107/contracts
-NEW: HaydenswapInterfacemulticall  Cchain : 0xeD822906FA020614840D6676401283098f6100E5  https://cchain.explorer.avax.network/address/0xeD822906FA020614840D6676401283098f6100E5/transactions
+NEW: UniswapInterfacemulticall      HaydenswapInterfacemulticall  Cchain : 0xeD822906FA020614840D6676401283098f6100E5  https://cchain.explorer.avax.network/address/0xeD822906FA020614840D6676401283098f6100E5/transactions
 
 | ProxyAdmin | 0xB753548F6E010e7e680BA186F9Ca1BdAB2E90cf2 | https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.4.1-solc-0.7-2/contracts/proxy/ProxyAdmin.sol |
 
