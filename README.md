@@ -79,8 +79,8 @@ Deployments The staker at tag v1.0.0 is deployed and verified on Etherscan for o
 
 Network Explorer Mainnet https://etherscan.io/address/0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d#code Rinkeby https://rinkeby.etherscan.io/address/0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d#code Kovan https://kovan.etherscan.io/address/0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d#code Ropsten https://ropsten.etherscan.io/address/0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d#code Goerli https://goerli.etherscan.io/address/0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d#code Arbitrum Rinkeby https://rinkeby-explorer.arbitrum.io/address/0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d Arbitrum One https://explorer.arbitrum.io/address/0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d
 
-avalanche cchain https://cchain.explorer.avax.network/address/0xA647FF158BdD053B9C7C16571D6111C8b32eF544/contracts
-
+stakver v3 avalanche cchain https://cchain.explorer.avax.network/address/0xA647FF158BdD053B9C7C16571D6111C8b32eF544/contracts
+new staker v3   hayden2stakerv3 https://cchain.explorer.avax.network/address/0x21a5e0Fc127C246030Fe12fd8bad711a06601A9b/contracts
 <!---
 avadex/avadex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
