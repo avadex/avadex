@@ -81,6 +81,7 @@ Network Explorer Mainnet https://etherscan.io/address/0x1f98407aaB862CdDeF78Ed25
 
 stakver v3 avalanche cchain https://cchain.explorer.avax.network/address/0xA647FF158BdD053B9C7C16571D6111C8b32eF544/contracts
 new staker v3   hayden2stakerv3 https://cchain.explorer.avax.network/address/0x21a5e0Fc127C246030Fe12fd8bad711a06601A9b/contracts
+wavaxorgv3staker  https://snowtrace.io/address/0x7cb2151825cd3D3571043e9715E85d6f8Ca91811#code
 <!---
 avadex/avadex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
