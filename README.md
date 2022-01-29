@@ -46,6 +46,8 @@ new not used   proxyadmin   0xDa12C1caad9d954eA197868695C97093883AA3e7
 | Fuji QuoterV2 0x27cfa516190c8ba6CC39E3Cfa54F6E7A7A85Bccd 
 | Cchain QuoterV2 0xCa2E15056971a9F0B4f39c1662fd791E08E5Bd02 flat 1000000 run 0x813CB4bC45f9BD01f6f6ea8a361daD1860085425/contracts
 
+New Quoter v2 cchain 0x5B85D1BAFDEE35754C5ee68842ACa06E2216d7AF
+
 | SwapRouter | 0xE592427A0AEce92De3Edee1F18E0157C05861564 | https://github.com/Uniswap/uniswap-v3-periphery/blob/v1.0.0/contracts/SwapRouter.sol 
 | Fuji 0xA4DCf4082A2270e95BB60Db0C5Ff4BBB63e29178 
 | Cchain HaydenV3Router 0x787Bd59120fb81f8BE4AD34280a621877516fe37 flat 1000000 runs https://cchain.explorer.avax.network/address/0x787Bd59120fb81f8BE4AD34280a621877516fe37/contracts
