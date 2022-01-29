@@ -50,6 +50,8 @@ new not used   proxyadmin   0xDa12C1caad9d954eA197868695C97093883AA3e7
 | Fuji 0xA4DCf4082A2270e95BB60Db0C5Ff4BBB63e29178 
 | Cchain HaydenV3Router 0x787Bd59120fb81f8BE4AD34280a621877516fe37 flat 1000000 runs https://cchain.explorer.avax.network/address/0x787Bd59120fb81f8BE4AD34280a621877516fe37/contracts
 
+NEW SwapRouter02 Cchain 0x8CeDCec1fF61dB9fcb3d62cEc58D6feC38E2b645
+
 | NFTDescriptor | 0x42B24A95702b9986e82d421cC3568932790A48Ec | https://github.com/Uniswap/uniswap-v3-periphery/blob/v1.0.0/contracts/libraries/NFTDescriptor.sol 
 | Fuji 0x300308F52D87Da59DD96d6B7c01437feabBef872 not flat deploy account 2 , runs 800 
 | Cchain 0x7ae84f324b1e07b185e7fC1831738a828a464dca not flat 900 runs https://cchain.explorer.avax.network/address/0x7ae84f324b1e07b185e7fC1831738a828a464dca/contracts
