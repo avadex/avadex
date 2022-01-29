@@ -50,7 +50,7 @@ new not used   proxyadmin   0xDa12C1caad9d954eA197868695C97093883AA3e7
 | Fuji 0xA4DCf4082A2270e95BB60Db0C5Ff4BBB63e29178 
 | Cchain HaydenV3Router 0x787Bd59120fb81f8BE4AD34280a621877516fe37 flat 1000000 runs https://cchain.explorer.avax.network/address/0x787Bd59120fb81f8BE4AD34280a621877516fe37/contracts
 
-NEW SwapRouter02 Cchain 0x8CeDCec1fF61dB9fcb3d62cEc58D6feC38E2b645
+NEW SwapRouter02 Cchain 0x6A4911Ce762ebDB560188Eef8F7b764fF965768a
 
 | NFTDescriptor | 0x42B24A95702b9986e82d421cC3568932790A48Ec | https://github.com/Uniswap/uniswap-v3-periphery/blob/v1.0.0/contracts/libraries/NFTDescriptor.sol 
 | Fuji 0x300308F52D87Da59DD96d6B7c01437feabBef872 not flat deploy account 2 , runs 800 
@@ -73,7 +73,7 @@ NEW : opt900  0x8882bD2767103847483a5D50679d1d8FD7340fA7
 
 
 | V3Migrator | 0xA5644E29708357803b5A882D272c41cC0dF92B34 | https://github.com/Uniswap/uniswap-v3-periphery/blob/v1.0.0/contracts/V3Migrator.sol 
-cchain   not in use 0x80E70C7A3ecfDba88f3e1Fe572cFa5c081213762
+cchain   not in use 0x80E70C7A3ecfDba88f3e1Fe572cFa5c081213762F
 
 |
 
