@@ -53,7 +53,7 @@ New Quoter v2 cchain 0x5B85D1BAFDEE35754C5ee68842ACa06E2216d7AF
 | Cchain HaydenV3Router 0x787Bd59120fb81f8BE4AD34280a621877516fe37 flat 1000000 runs https://cchain.explorer.avax.network/address/0x787Bd59120fb81f8BE4AD34280a621877516fe37/contracts
 
 NEW SwapRouter02 png Cchain 0x6A4911Ce762ebDB560188Eef8F7b764fF965768a
-NEW Swaprouter02 TJ Cchain 0xE24789473E54a76B65F4df1b16B3836671F2E786
+NEW Swaprouter02 TJ Cchain 0x60c3d96A5a6FBF29a76f684381e1537515b7fA8E
 
 | NFTDescriptor | 0x42B24A95702b9986e82d421cC3568932790A48Ec | https://github.com/Uniswap/uniswap-v3-periphery/blob/v1.0.0/contracts/libraries/NFTDescriptor.sol 
 | Fuji 0x300308F52D87Da59DD96d6B7c01437feabBef872 not flat deploy account 2 , runs 800 
