@@ -1,11 +1,9 @@
-
-
-**for testing and demonstration on the 
+***********************************************************************************************************************************************************for testing and demonstration on the 
 avalanche network
 
 **dont use in production 
 
-**contracts on the avalanche network  are NOT AUDITED 
+**contracts on the avalanche network  are NOT AUDITED ******************************************************************************************************************************************************
 
 
 Deployment addresses
